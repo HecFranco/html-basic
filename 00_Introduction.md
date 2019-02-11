@@ -60,3 +60,12 @@ Muchas **computadoras**, y particularmente **servidores**, son sensibles a mayú
 * **Autoguardado**, BH >> Archivo >> Guardado Automático
 
 [Volver al inicio](#-Introducción)
+
+## WEBS DE REFERENCIA
+
+---------------------------------------------------------------------------
+
+* [https://caniuse.com/](https://caniuse.com/)
+* [https://codepen.io/](https://codepen.io/)
+
+[Volver al inicio](#-Introducción)
