@@ -10,23 +10,23 @@ Se indican con atributos (son tres):
 
 ```html
 <article itemscope itemtype="http://schema.org/Person">
-    <img itemprop="image" src="alvaro.jpg" alt="Alvaro Felipe">
-    <h2 itemprop="name">Alvaro Felipe</h2>
-    <p itemprop="jobTitle">Director de proyectos de Escuela Digital. Desarrollador y diseñador web. Docente.</p>
-    <p itemprop="email">alvarofelipe@escueladigital.pe</p>
-    <p itemprop="address">Lima, Perú</p>
+    <img itemprop="image" src="https://www.prodigia.com/sites/default/files/styles/capturas_trabajadores/public/hector_2.png" alt="Hector Franco">
+    <h2 itemprop="name">Hector Franco</h2>
+    <p itemprop="jobTitle">Director de proyectos. Desarrollador y diseñador web. Docente.</p>
+    <p itemprop="email">seo@prodigia.com</p>
+    <p itemprop="address">Cabra, Córdoba</p>
 </article>
 
 <article>
-    <img src="alvaro.jpg" alt="Alvaro Felipe">
-    <h2>Alvaro Felipe</h2>
-    <p>Director de proyectos de Escuela Digital. Desarrollador y diseñador web. Docente.</p>
-    <p>alvarofelipe@escueladigital.pe</p>
-    <p>Lima, Perú</p>
+    <img src="https://www.prodigia.com/sites/default/files/styles/capturas_trabajadores/public/hector_2.png" alt="Hector Franco">
+    <h2>Hector Franco</h2>
+    <p>Director de proyectos. Desarrollador y diseñador web. Docente.</p>
+    <p>seo@prodigia.com</p>
+    <p>Cabra, Córdoba</p>
 </article>
 
 <article itemscope itemtype="http://schema.org/Book">
-    <img itemprop="image" src="libro.jpg" alt="Libro">
+    <img itemprop="image" src="https://images-eu.ssl-images-amazon.com/images/I/61HOpyVqSeL._SX260_.jpg" alt="Libro">
     <h2 itemprop="name">Don Quijote de la Mancha</h2>
     <p itemprop="about">La historia de Don Quijote y sus aventuras</p>
     <p itemprop="author">Miguel de Cervantes</p>
@@ -34,7 +34,7 @@ Se indican con atributos (son tres):
 </article>
 
 <article>
-    <img src="libro.jpg" alt="Libro">
+    <img src="https://images-eu.ssl-images-amazon.com/images/I/61HOpyVqSeL._SX260_.jpg" alt="Libro">
     <h2>Don Quijote de la Mancha</h2>
     <p>La historia de Don Quijote y sus aventuras</p>
     <p>Miguel de Cervantes</p>

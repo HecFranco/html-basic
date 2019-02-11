@@ -67,5 +67,8 @@ Muchas **computadoras**, y particularmente **servidores**, son sensibles a mayú
 
 * [https://caniuse.com/](https://caniuse.com/)
 * [https://codepen.io/](https://codepen.io/)
+* [https://schema.org/](https://schema.org/)
+* [https://www.w3.org/](https://www.w3.org/)
+* [https://www.w3schools.com](https://www.w3schools.com)
 
 [Volver al inicio](#-Introducción)
