@@ -42,7 +42,7 @@ Las rutas le indican al sistema como acceder a un recurso (como encontrarlo). Ha
     * **El destino está en una subcarpeta**. En ese caso se indica la ruta separando las carpetas con el signo `/` (slash) hasta llegar al archivo destino. Nunca se debe comenzar con un slash (`/`)
     * **Para subir de nivel se usa dos puntos y slash (`../`)** Se puede repetir si es que se necesita subir varios niveles.
 * **Relativas a la raíz**
-* **La raiz se indica con `/`**
+> **NOTA**: **La raiz se indica con `/`**
 
 ---------------------------------------------------------------------------
 

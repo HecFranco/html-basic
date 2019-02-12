@@ -70,5 +70,6 @@ Muchas **computadoras**, y particularmente **servidores**, son sensibles a mayú
 * [https://schema.org/](https://schema.org/)
 * [https://www.w3.org/](https://www.w3.org/)
 * [https://www.w3schools.com](https://www.w3schools.com)
+* [https://www.lipsum.com/](https://www.lipsum.com/)
 
 [Volver al inicio](#-Introducción)

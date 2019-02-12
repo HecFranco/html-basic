@@ -215,7 +215,7 @@ Son listas hijas de un `<li></li>`. Se recomienda poner la sublista (lista hija)
 <ul>
     <li>Lunes
         <ul>
-            <li>Bañar al perro</li>     
+            <li>Bañar al perro</li>
             <li>Ir al dentista
                 <ol>
                     <li>sub sub item 1</li>
